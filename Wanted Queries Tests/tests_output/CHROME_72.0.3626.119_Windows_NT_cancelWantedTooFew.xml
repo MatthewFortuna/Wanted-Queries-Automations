@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="cancelWantedTooFew"
+    errors="0" failures="0" hostname="" id="" package="cancelWantedTooFew" skipped="0"
+    tests="1" time="1.300" timestamp="">
+  
+    <testcase name="Too few Characters Entry Test" classname="cancelWantedTooFew" time="1.300" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

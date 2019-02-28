@@ -1,0 +1,6 @@
+Errors Found:
+1. Entering A correct first letter than any other letters after will be accepted into the race and sex drop down boxes
+2. The menu button works but does not have valid selectors
+3. The page Title does not change to match the current program function (page clicked on)
+4. DL Expiration Date and License Expiration fields accept unrealistic dates in the Modify Wanted App
+5. 

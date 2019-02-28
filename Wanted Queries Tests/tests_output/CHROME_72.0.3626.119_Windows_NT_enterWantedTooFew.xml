@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="enterWantedTooFew"
+    errors="0" failures="0" hostname="" id="" package="enterWantedTooFew" skipped="0"
+    tests="1" time="51.94" timestamp="">
+  
+    <testcase name="Too Few/No Characters Enter Wanted Test" classname="enterWantedTooFew" time="51.94" assertions="35">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

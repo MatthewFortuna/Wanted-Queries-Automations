@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="modifyWantedTooMany"
+    errors="0" failures="1" hostname="" id="" package="modifyWantedTooMany" skipped="0"
+    tests="1" time="30.24" timestamp="">
+  
+    <testcase name="Too Many Characters modify Wanted Test" classname="modifyWantedTooMany" time="30.24" assertions="17">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;Element [name=@textResult]&gt; text to equal: &#34;&#34; in 2000ms - expected [0;32m&#34;equal &#39;&#39;&#34;[0m but got: [0;31m&#34;1234567890.Driving Suspension.BRKE.B2MS8HA9B.Jimmy Dooper.M.A.511.183.Black.License Expired.2019-02-01.B492839403849.CO.2010-10-10.BB4739.CO.2318-12-31&#34;[0m">    at module.exports (C:\Users\werty\OneDrive\Wanted Queries\testAssets\modifyWantedAssets.js:22:13)
+    at Too Many Characters modify Wanted Test.mFill.forEach.fill (C:\Users\werty\OneDrive\Wanted Queries\modifyWantedTests\modifyWantedTooMany.js:16:13)
+    at Array.forEach (&lt;anonymous&gt;)
+    at Object.Too Many Characters modify Wanted Test (C:\Users\werty\OneDrive\Wanted Queries\modifyWantedTests\modifyWantedTooMany.js:15:15)</failure>
+
+    <failure message="    at module.exports (C:\Users\werty\OneDrive\Wanted Queries\testAssets\modifyWantedAssets.js:22:13)">    at Too Many Characters modify Wanted Test.mFill.forEach.fill (C:\Users\werty\OneDrive\Wanted Queries\modifyWantedTests\modifyWantedTooMany.js:16:13)
+    at Array.forEach (&lt;anonymous&gt;)
+    at Object.Too Many Characters modify Wanted Test (C:\Users\werty\OneDrive\Wanted Queries\modifyWantedTests\modifyWantedTooMany.js:15:15)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

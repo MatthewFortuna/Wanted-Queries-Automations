@@ -1,0 +1,23 @@
+module.exports = (ePage, {hdr, mke, ori, nam, sex, rac, hgt, wgt, hai, off, dow, oln, ols, old, lic, lis, lid, result}) => {
+    ePage
+    .setValue('@hdr', hdr)
+    .setValue('@mke', mke)
+    .setValue('@ori', ori)
+    .setValue('@nam', nam)
+    .setValue('@sex', sex)
+    .setValue('@rac', rac)
+    .setValue('@hgt', hgt)
+    .setValue('@wgt', wgt)
+    .setValue('@hai', hai)
+    .setValue('@off', off)
+    .setValue('@dow', dow)
+    .setValue('@oln', oln)
+    .setValue('@ols', ols)
+    .setValue('@old', old)
+    .setValue('@lic', lic)
+    .setValue('@lis', lis)
+    .setValue('@lid', lid)
+    .click('@submit')
+    .expect.element('@textResult').text.to.equal(result).before(2000)
+    ePage.click('@clear')
+ }

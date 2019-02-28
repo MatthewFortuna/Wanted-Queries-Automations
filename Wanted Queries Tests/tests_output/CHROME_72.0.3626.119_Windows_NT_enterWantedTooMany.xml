@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="enterWantedTooMany"
+    errors="0" failures="0" hostname="" id="" package="enterWantedTooMany" skipped="0"
+    tests="1" time="27.41" timestamp="">
+  
+    <testcase name="IDCheck" classname="enterWantedTooMany" time="27.41" assertions="18">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
